@@ -1,0 +1,16 @@
+C:\Users\STUDENT\Desktop\oriV2\PretrageOsnovno\bin\Debug\Graphs\NodesDodatno.txt
+C:\Users\STUDENT\Desktop\oriV2\PretrageOsnovno\bin\Debug\Graphs\Nodes.txt
+C:\Users\STUDENT\Desktop\oriV2\PretrageOsnovno\bin\Debug\Graphs\Graph.txt
+C:\Users\STUDENT\Desktop\oriV2\PretrageOsnovno\bin\Debug\PretrageOsnovno.exe
+C:\Users\STUDENT\Desktop\oriV2\PretrageOsnovno\bin\Debug\PretrageOsnovno.pdb
+C:\Users\STUDENT\Desktop\oriV2\PretrageOsnovno\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\STUDENT\Desktop\oriV2\PretrageOsnovno\obj\x86\Debug\PretrageOsnovno.exe
+C:\Users\STUDENT\Desktop\oriV2\PretrageOsnovno\obj\x86\Debug\PretrageOsnovno.pdb
+C:\Users\Srdjan\Desktop\oriV2\PretrageOsnovno\obj\x86\Debug\PretrageOsnovno.exe
+C:\Users\Srdjan\Desktop\oriV2\PretrageOsnovno\obj\x86\Debug\PretrageOsnovno.pdb
+C:\Users\Srdjan\Desktop\oriV2\PretrageOsnovno\bin\Debug\Graphs\NodesDodatno.txt
+C:\Users\Srdjan\Desktop\oriV2\PretrageOsnovno\bin\Debug\Graphs\Nodes.txt
+C:\Users\Srdjan\Desktop\oriV2\PretrageOsnovno\bin\Debug\Graphs\Graph.txt
+C:\Users\Srdjan\Desktop\oriV2\PretrageOsnovno\bin\Debug\PretrageOsnovno.exe
+C:\Users\Srdjan\Desktop\oriV2\PretrageOsnovno\bin\Debug\PretrageOsnovno.pdb
+C:\Users\Srdjan\Desktop\oriV2\PretrageOsnovno\obj\x86\Debug\PretrageOsnovno.csprojResolveAssemblyReference.cache
